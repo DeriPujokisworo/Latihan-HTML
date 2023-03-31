@@ -1,0 +1,33 @@
+#tabel-siswa {
+  border-collapse: collapse;
+  background: url(/aset/hogwarts.png);
+  background-size: 200px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 50% 50%;
+
+  border-width: 4px;
+  border-style: solid;
+  border-color: black;
+
+  margin: auto;
+}
+.link {
+  color: red;
+  text-decoration: none;
+}
+body {
+  font-family: sofia, sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+  text-align: center;
+  background: #0033;
+  color: dark;
+}
+#tabel-siswa h3 {
+  font-size: 32px;
+}
+
+#tabel-siswa td {
+  padding: 10px;
+}
